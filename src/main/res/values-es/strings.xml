@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schan</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="login">Ingresar</string>
+    <string name="signup">Crear</string>
+    <string name="signin">Registrarse</string>
+    <string name="joinus">Unete</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="notification">Notificacion</string>
+    <string name="new_message">te ha enviado un mensaje</string>
+    <string name="new_invitation">te ha enviado una invitacion de amistad</string>
+    <string name="new_post">Nueva publicacion</string>
+    <string name="accepted_invitation">ha aceptado tu invitacion</string>
+    <string name="pass_user_incorr">Nombre de usuario o contraseña incorrecta</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="loading">Espera un momento, esto puede demorar algunos minutos</string>
+    <string name="valid_email">Email valido</string>
+    <string name="name_repeated">Ese nombre de usuario ya existe, escoja otro nombre de usuario</string>
+
+</resources>
